@@ -1,0 +1,9 @@
+.navholder{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 10vh;
+    font-size: xx-large;
+    background-color: rgba(128,0,128,0.5);
+}
